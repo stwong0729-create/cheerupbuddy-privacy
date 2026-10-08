@@ -4,9 +4,9 @@ Official website support and legal information for CheerUp Buddy.
 
 ## Pages
 
-- [Privacy Policy](https://cheerupbuddy.com/)
+- [Privacy Policy](https://privacy.cheerupbuddy.com/)
 - [Terms of Use](https://privacy.cheerupbuddy.com/terms.html)
-- [Support](https://cheerupbuddy.com/support.html)
+- [Support](https://privacy.cheerupbuddy.com/support.html)
 
 ## Customer Support
 
